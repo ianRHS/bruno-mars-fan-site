@@ -1,3 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&family=Instrument+Serif:ital@0;1&family=Raleway:ital,wght@0,100..900;1,100..900&family=Rock+Salt&display=swap');
+
+.instrument-serif-regular {
+    font-family: "Instrument Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .instrument-serif-regular-italic {
+    font-family: "Instrument Serif", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+
+
+
+
 body {
     background-color: #F2EDEB;
+}
+nav {
+    background-color: #8C1B24;
+}
+image {
+    width: 374px;
+    height: 378;
+    float: right;
 }
